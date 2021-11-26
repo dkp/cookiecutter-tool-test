@@ -1,0 +1,2 @@
+# Source the local code directory
+export PATH=$PATH:${PWD}/code

@@ -1,0 +1,10 @@
+{
+  "full_name": "Dianne Patterson",
+  "email": "dkp@email.arizona.edu",
+  "tool_name": "bleeding edge",
+  "tool_download_url": "https://", 
+  "tool_documentation_url": "https://",
+  "tool_description": "The purpose of this tool is",
+  "dataset_description": "BIDS dataset",
+  "project_slug": "{{ cookiecutter.tool_name.lower().replace(' ', '_').replace('-', '_') }}"
+}
