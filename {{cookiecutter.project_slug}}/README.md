@@ -1,9 +1,10 @@
-Author: {{ cookiecutter.full_name }} <{{ cookiecutter.email }}>   
-Date Created: {% now 'local', '%Y-%m-%d' %}
-Tool Test (Name and version): {{ cookiecutter.tool_name }}  
-Dataset: {{ cookiecutter.dataset_description }}       
-Download Tool from: {{ cookiecutter.tool_download_url }}  
-Tool Documentation is available at: {{ cookiecutter.tool_documentation_url }}  Tool Description: {{ cookiecutter.tool_description }} 
+**Author**: {{ cookiecutter.full_name }} <{{ cookiecutter.email }}>      
+**Date Created**: {% now 'local', '%Y-%m-%d' %}   
+**Tool Test** (Name and version): {{ cookiecutter.tool_name }}     
+**Dataset**: {{ cookiecutter.dataset_description }}          
+**Download Tool from**: {{ cookiecutter.tool_download_url }}      
+**Tool Documentation is available at**: {{ cookiecutter.tool_documentation_url }}     
+**Tool Description**: {{ cookiecutter.tool_description }} 
 
 ----------------
 
