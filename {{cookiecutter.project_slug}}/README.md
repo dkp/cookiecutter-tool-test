@@ -12,6 +12,9 @@ Tool Documentation is available at: {{ cookiecutter.tool_documentation_url }}  T
 This is a project to test the software tool {{ cookiecutter.tool_name }}.
 - **CHANGES.md** records the history.
 - **HOWTO.md** will contain the Markdown evaluation and usage information for the tool.
+- **TODO.md** contains a checklist of steps and explanations
 - The **code** directory contains any test scripts and code
 - The **data** directory contains **inputs** and **outputs**
+- The **docs** directory contains documentation
+- The **tutorials** directory contains tutorials
 - **project_config**: source project_config to put the project code directory in the path. Add extra configuration here. 
